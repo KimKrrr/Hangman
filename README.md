@@ -8,7 +8,7 @@ package Hangman;
  * Name: Kim Koss
  * Class: CSIS2450 - 003
  * Assignment: A01 - Hangman
- * Date: Sept 3, 2014s
+ * Date: Sept 13, 2014
  */
 import java.util.*;
 
