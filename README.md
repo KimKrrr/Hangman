@@ -156,7 +156,8 @@ public class Hangman
     //Current lives
 
     /**
-     * Displays number of lives
+     * Displays number of lives 
+     * Here is a GIT test change
      */
         public void currentLives()
     {
